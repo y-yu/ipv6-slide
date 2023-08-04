@@ -1,9 +1,7 @@
-Datatype Generic Programming with Scala 3
+IPv6 第5章 近隣探索プロトコル
 ============================
-
-[YouTube Video](https://youtu.be/K1rP04o9gzc)
 
 ## PDF
 
-- [Slide](https://y-yu.github.io/scalamatsuri2023/scalamatsuri2023.pdf)
-- [Handout](https://y-yu.github.io/scalamatsuri2023/scalamatsuri2023_without_animation.pdf)
+- [Slide](https://y-yu.github.io/ipv6-slide/ipv6.pdf)
+- [Handout](https://y-yu.github.io/ipv6-slide/ipv6_without_animation.pdf)
